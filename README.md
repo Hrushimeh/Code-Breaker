@@ -1,10 +1,10 @@
 # 🔐 Code-Breaker
 
-## 👋 Welcome
+## Welcome
 
 Hello! Welcome to the Code-Breaker repository.
 
-## 📖 Description
+## Description
 
 This program is a version of the popular board game known as MasterMind. It has both the option for the user to play, or play with their own code and allow the code's algorithm to guess.
 
